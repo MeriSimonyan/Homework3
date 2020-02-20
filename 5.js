@@ -1,3 +1,4 @@
+//5
 let arr = []
 function arraySum(array) {
 let sum = 0
